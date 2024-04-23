@@ -3,7 +3,7 @@
 
 .NET framework 4.7.2
 
-##Simple application to create and view tasks, such as appointments. 
+## Simple application to create and view tasks, such as appointments. 
 Lists in a data grid, spreadsheet, style. Click the left button next to an entry and hit DEL to remove.
 Can also edit entries.
 
