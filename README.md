@@ -10,7 +10,7 @@ Can also edit entries.
 **TO-DO**
 - A timer that checks every minute for a scheduled task and runs an event handler.
 
-#Simple build from source instructions:
+## Simple build from source instructions:
 
 - Unpack the source zip somewhere.
 - Load the solutions file (.sln) into Visual Studio.
